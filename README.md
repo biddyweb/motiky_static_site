@@ -1,0 +1,4 @@
+motiky
+======
+
+a static site
